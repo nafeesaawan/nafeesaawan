@@ -1,156 +1,207 @@
-# Hi 👋, I'm **Nafeesa Arshad**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Learning+Next.js+%7C+Node.js+%7C+MongoDB;Future+QA+Engineer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A11CB&height=220&section=header&text=Nafeesa%20Arshad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20QA%20Enthusiast%20%7C%20Perpetual%20Learner&descAlignY=55&descSize=18" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%E2%9A%A1;Next.js+%7C+Node.js+%7C+MongoDB+%F0%9F%9A%80;Aspiring+QA+Engineer+%F0%9F%94%8D;Always+Shipping%2C+Always+Learning" />
 
----
+<img src="https://komarev.com/ghpvc/?username=nafeesaawan&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/nafeesaawan?label=Followers&style=for-the-badge&color=6A11CB" />
 
-## 🚀 About Me
+</div>
 
-🎓 BS Software Engineering Student
+<br>
 
-💻 1.5 Years of Web Development Experience
+## 👩‍💻 About Me
 
-🌱 Currently learning **Full Stack Development & QA**
+```javascript
+const nafeesa = {
+    role: "Software Engineering Student & Project Manager",
+    location: "Pakistan 🇵🇰",
+    currentFocus: ["Full Stack Development", "QA Engineering"],
+    stack: ["React", "Next.js", "Node.js", "MongoDB"],
+    freelancing: true,
+    funFact: "1st place winner — University Web Development Competition 🏆",
+    philosophy: "Consistency > Intensity"
+};
+```
 
-⚡ Passionate about building responsive, scalable and user-friendly web applications.
-
-🎯 Goal: Become a Professional Full Stack Developer & QA Engineer.
+- 🎓 BS Software Engineering student
+- 🛠️ Working as a **Project Manager** on React-based projects, with hands-on frontend dev experience
+- 🌱 Currently deepening my skills in **Full Stack Development (MERN + Next.js)** and **Manual QA**
+- 💼 Actively freelancing — building production-quality full stack applications for clients
+- 🎯 Goal: Become a professional Full Stack Developer & QA Engineer
+- ⚡ Fun fact: I debug in Roman Urdu and code in English
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<div align="center">
+
+<a href="https://github.com/nafeesaawan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/PeoplePerHour-FF7315?style=for-the-badge&logo=&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
+**Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
 
-### Backend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,postgres" />
 
-### Languages
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,javascript" />
-</p>
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 
-### Tools
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-</p>
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel" />
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-* ⚡ Next.js
-* ⚡ Express.js
-* ⚡ MongoDB
-* ⚡ REST APIs
-* ⚡ Authentication & Authorization
-* ⚡ Full Stack Development
-* ⚡ Software Testing
-* ⚡ Manual QA
-* ⚡ GitHub Actions
+<table align="center">
+<tr>
+<td>
+
+- ⚡ Next.js (App Router)
+- ⚡ Express.js
+- ⚡ MongoDB & Prisma
+- ⚡ REST API Design
+
+</td>
+<td>
+
+- 🔐 Authentication & Authorization
+- 🧪 Software Testing & Manual QA
+- ⚙️ GitHub Actions / CI-CD
+- 🏗️ Full Stack Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 Bedsheet E-Commerce Store
+<table align="center" width="100%">
+<tr>
+<td width="50%">
 
-Modern Full Stack E-Commerce website with authentication, product management, shopping cart and responsive UI.
+### 🛒 Bedsheet E-Commerce Store
+Full stack e-commerce platform with authentication, product management, cart functionality, and a fully responsive UI.
+
+`React` `Next.js` `MongoDB`
+
+</td>
+<td width="50%">
 
 ### 📰 Newsletter Application
+Content management web app with secure authentication and newsletter publishing workflow.
 
-Newsletter web app with authentication and content management.
+`Next.js` `Auth` `CMS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏦 Banking Website
+Clean, responsive frontend UI/UX design for a modern banking platform concept.
 
-Responsive frontend website with clean UI/UX.
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
 
 ### 🌐 Business Websites
+Modern, responsive business websites for local and international clients.
 
-Modern responsive business websites built using HTML, CSS, JavaScript and React.
+`React` `JS` `Responsive Design`
+
+</td>
+</tr>
+</table>
+
+> 💡 More production-grade projects — including a **CV Generator**, **Project Management System (NTS)**, and **ZShop e-commerce site** — in progress and pinned below.
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 1st Position in University Website Competition
-* 💼 1.5 Years Experience in Web Development
-* 🚀 Building Full Stack Applications
-* 📚 Continuously Learning Modern Technologies
+- 🥇 **1st Position** — University Web Development Competition
+- 💼 **1.5+ years** of hands-on web development experience
+- 🧑‍💼 Managing real-world React projects as a **Project Manager**
+- 🌍 Building a freelance client base across Pakistan, UK & USA
+- 📚 Consistently shipping and learning modern technologies
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nafeesaawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafeesaawan&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nafeesaawan&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nafeesaawan&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+</div>
 
 ---
 
-## 💡 Quote
+## 💬 Quote
 
-> **"Success comes from consistency, continuous learning, and building projects that solve real-world problems."**
+<div align="center">
+
+> *"Success comes from consistency, continuous learning, and building projects that solve real-world problems."*
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for stopping by!
+If you like my work, don't forget to star my repositories 🚀
 
-If you like my work, don't forget to ⭐ my repositories.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:00C2FF&height=100&section=footer" />
 
-</p>
+</div>
